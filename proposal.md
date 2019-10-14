@@ -15,7 +15,7 @@ Da hilft eine Java Applikation, bei der man Test und Hausübungen eintragen kann
 
 ## Projektergebnis
 
-Ziel dieses Projekts ist, dass Schüler/innen ihre Schulischen Pfilchten in zb. einem Kalender eintragen können und dann rechtzeitig benachrichtigt werden, so dass sie nichts mehr vergessen, ebenso dass man Projekte koordinieren kann
+Ziel dieses Projekts ist, dass Schüler/innen ihre Schulischen Pfilchten in zb. einem Kalender eintragen können und dann rechtzeitig benachrichtigt werden, sodass sie nichts mehr vergessen, ebenso dass man Projekte koordinieren kann
 
 ## Projektziele
 
